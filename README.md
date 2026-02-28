@@ -39,3 +39,13 @@ The core of the device is the **EByte E22-900T30S**, providing high-power **1-Wa
 2.  **Communication**: Open a serial terminal (e.g., `pyserial` or `minicom`) at **9600** baud (default).
 3.  **Configuration**: To send **AT Commands**, the device must be in Configuration Mode (Requires M0/M1 pins to be set according to your hardware strapping).
 4.  **Kill Session**: Flip **SW1** to the `OFF` position. The power rail is immediately grounded, and the radio is physically silenced.
+
+## Front 3D Render
+<img width="547" height="631" alt="image" src="https://github.com/user-attachments/assets/53b2c472-ab1b-4133-bf62-2de3dd15c42a" />
+
+## Back 3D Render
+<img width="514" height="637" alt="image" src="https://github.com/user-attachments/assets/25c8cbbb-f3a7-49c9-a90e-bb1c6c017c62" />
+
+## License
+
+All PCB design files and hardware are released under the [Creative Commons Attribution Share Alike 4.0](https://choosealicense.com/licenses/cc-by-sa-4.0/) license.
