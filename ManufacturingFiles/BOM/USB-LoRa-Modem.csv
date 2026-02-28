@@ -1,0 +1,21 @@
+Reference,Qty,Value,Description,Manufacturer,Part Number,Distributor,Unit Price (10 Qty),Total (10 Qty)
+U7,1,CH343P,USB to UART Bridge,WCH,CH343P,DigiKey,$1.03,$10.30
+U6,1,TPS62A01ADRL,Buck Converter 1A,Texas Instruments,TPS62A01ADRLR,DigiKey,$0.13,$1.30
+U4,1,USBLC6-2SC6,ESD Protection 2-Line,STMicroelectronics,USBLC6-2SC6,DigiKey,$0.24,$2.40
+U1,1,E22-900T30S,"LoRa Module (1W, 915MHz)",EByte,E22-900T30S,DigiKey,$11.30,$113.00
+SW1,1,KILL_SWITCH,Slide Switch SPDT,C&K,OS102011MA1Q,DigiKey,$0.54,$5.40
+R6,1,73.2k,Resistor 0.1% 0603,Yageo,RC0603FR-0773K2L,DigiKey,$0.10,$1.00
+R5,1,330k,Resistor 1% 0603,Yageo,RC0603FR-07330KL,DigiKey,$0.05,$0.50
+R4,1,10R,Resistor 1% 1210,Yageo,RC1210FR-0710RL,DigiKey,$0.08,$0.80
+"R3, R7",2,22R,Resistor 1% 0603,Yageo,RC0603FR-0722RL,DigiKey,$0.05,$1.00
+"R1, R2",2,1k,Resistor 1% 0603,Yageo,RC0603FR-071KL,DigiKey,$0.05,$1.00
+L1,1,1uH,Inductor 1A 1210,Wurth,74404031010,DigiKey,$0.45,$4.50
+J2,1,USB_JUMPER,Pin Header 1x4 2.54mm,Yageo,,DigiKey,$0.25,$2.50
+F1,1,PTC_FUSE,PTC Fuse 1.1A Hold 1206,Bourns,MF-MSMF110-2,DigiKey,$0.35,$3.50
+C17,1,22uF,Capacitor 10V X5R 0805,Samsung,CL21A226MPQNNNE,DigiKey,$0.08,$0.80
+C16,1,10uF,Capacitor 10V X5R 0805,Samsung,CL21A106KPCLQNC,DigiKey,$0.05,$0.50
+C12,1,120pF,Capacitor 50V C0G 0603,Samsung,CL10C121JB8NNNC,DigiKey,$0.03,$0.30
+C11,1,100nF,Capacitor 50V X7R 0603,Samsung,CL10B104KB8NNNC,DigiKey,$0.02,$0.20
+"C4, C10, C13",3,1uF,Capacitor 50V X7R 0603,Samsung,CL10B105KA8NNNC,DigiKey,$0.03,$0.90
+C3,1,10uF,Capacitor 10V X5R 0603,Samsung,CL10A106KP8NNNC,DigiKey,$0.05,$0.50
+"C1, C2",2,470uF,Tantalum Cap 6.3V Case D,Kyocera AVX,TAJD477K006RNJ,DigiKey,$1.45,$29.00

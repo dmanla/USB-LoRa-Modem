@@ -1,0 +1,21 @@
+Reference,Qty,Value,Description,Manufacturer,Part Number,Distributor,Unit Price (10 Qty),Total (10 Qty)
+U7,1,CH343P,USB to UART Bridge,WCH,CH343P,LCSC (C2846043),$1.03,$10.30
+U6,1,TPS62A01ADRL,Buck Converter 1A,Texas Instruments,TPS62A01ADRLR,LCSC (C2907400),$0.13,$1.30
+U4,1,USBLC6-2SC6,ESD Protection 2-Line,Yenji Elec,USBLC6-2SC6,LCSC (C323793),$0.07,$0.70
+U1,1,E22-900T30S,"LoRa Module (1W, 915MHz)",EByte,E22-900T30S,EByte Official,$8.90,$89.00
+SW1,1,KILL_SWITCH,Slide Switch SPDT,XKB Connectivity,SS-12D00G5,LCSC (C140220),$0.15,$1.50
+R6,1,73.2k,Resistor 0.1% 0603,Uniroyal (Uni-Ohm),0603WAF7322T5E,LCSC,$0.02,$0.20
+R5,1,330k,Resistor 1% 0603,Uniroyal (Uni-Ohm),0603WAF3303T5E,LCSC,$0.01,$0.10
+R4,1,10R,Resistor 1% 1210,Uniroyal (Uni-Ohm),1210WAF100JT5E,LCSC,$0.03,$0.30
+"R3, R7",2,22R,Resistor 1% 0603,Uniroyal (Uni-Ohm),0603WAF220JT5E,LCSC,$0.01,$0.20
+"R1, R2",2,1k,Resistor 1% 0603,Uniroyal (Uni-Ohm),0603WAF1001T5E,LCSC,$0.01,$0.20
+L1,1,1uH,Inductor 1A 1210,Sunlord,MWSA0402-1R0MT,LCSC (C28172),$0.15,$1.50
+J2,1,USB_JUMPER,Pin Header 1x4 2.54mm,Uniroyal (Uni-Ohm),,LCSC,$0.05,$0.50
+F1,1,PTC_FUSE,PTC Fuse 1.1A Hold 1206,Polyfuse,1206L110SL,LCSC (C41893),$0.05,$0.50
+C17,1,22uF,Capacitor 10V X5R 0805,Fenghua / Walsin,0805B226K100CT,LCSC,$0.03,$0.30
+C16,1,10uF,Capacitor 10V X5R 0805,Fenghua / Walsin,0805B106K100CT,LCSC,$0.02,$0.20
+C12,1,120pF,Capacitor 50V C0G 0603,Fenghua / Walsin,0603N121J500CT,LCSC,$0.01,$0.10
+C11,1,100nF,Capacitor 50V X7R 0603,Fenghua / Walsin,0603B104K500CT,LCSC,$0.01,$0.10
+"C4, C10, C13",3,1uF,Capacitor 50V X7R 0603,Fenghua / Walsin,0603B105K500CT,LCSC,$0.01,$0.30
+C3,1,10uF,Capacitor 10V X5R 0603,Fenghua / Walsin,0805B106K100CT,LCSC,$0.02,$0.20
+"C1, C2",2,470uF,Tantalum Cap 6.3V Case D,Kyocera AVX,TAJD477K006RNJ,LCSC (C7229),$0.86,$17.20
