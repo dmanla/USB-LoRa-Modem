@@ -41,10 +41,12 @@ The core of the device is the **EByte E22-900T30S**, providing high-power **1-Wa
 4.  **Kill Session**: Flip **SW1** to the `OFF` position. The power rail is immediately grounded, and the radio is physically silenced.
 
 ## Front 3D Render
-<img width="547" height="631" alt="image" src="https://github.com/user-attachments/assets/53b2c472-ab1b-4133-bf62-2de3dd15c42a" />
+<img width="373" height="775" alt="image" src="https://github.com/user-attachments/assets/a93cab7e-2109-431f-94ba-68f9ee4b5f28" />
+
 
 ## Back 3D Render
-<img width="514" height="637" alt="image" src="https://github.com/user-attachments/assets/25c8cbbb-f3a7-49c9-a90e-bb1c6c017c62" />
+<img width="395" height="760" alt="image" src="https://github.com/user-attachments/assets/1a2695de-6383-49ff-9a8e-2c50c4d4cf55" />
+
 
 ## License
 
